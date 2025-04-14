@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Riishiikesh?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/Riishiikesh?tab=repositories
 
-- 📫 How to reach me **rishicuchd0205@gmal.com**
+- 📫 How to reach me **rishicuchd0205@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
