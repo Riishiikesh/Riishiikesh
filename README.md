@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://riishiikesh.github.io/3D_Avatar_Portfolio/](https://riishiikesh.github.io/3D_Avatar_Portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/Riishiikesh?tab=repositories)
 
 - 📫 How to reach me **rishicuchd0205@gmal.com**
 
