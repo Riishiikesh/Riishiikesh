@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rishikesh Kumar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Snowflake**
 
-- 👯 I’m looking to collaborate on **Cloud Native Projects**
+- 👯 I’m looking to collaborate on **Data engineering Projects**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **Data Engineer / DevOps**
 
 - 👨‍💻 All of my projects are available at https://github.com/Riishiikesh?tab=repositories
 
