@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Data engineering Projects**
 
-- 🤝 I’m looking for help with **Data Engineer / DevOps**
+- 🤝 I’m looking for help with **Data Engineer / Data Analyst**
 
 - 👨‍💻 All of my projects are available at https://github.com/Riishiikesh?tab=repositories
 
